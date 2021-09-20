@@ -1,0 +1,29 @@
+body {
+    background-image: url('bgimg.jpg');
+    background-size: cover;
+}
+.head {
+    font-size: 15px;
+    top: 0;
+    width: 100%;
+    color: black;
+}
+.head span {
+    font-size: 30px;
+    color: white;
+}
+#text {
+    width: 400px;
+    border-radius: 5px;
+    height: 25px;
+    border: 1px lightgray;
+}
+center h3 {
+    color: cornsilk;
+}
+canvas {
+    border: 5px solid gray;
+    box-shadow: 5px 5px 0px lightgray;
+    width: 380px;
+    height: 380px;
+}
